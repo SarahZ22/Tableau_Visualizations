@@ -17,3 +17,5 @@ Create a Tableau story that brings together the visualizations, requested maps, 
 This is what will be presented to the officials, so be sure to make it professional, logical, and visually appealing.
 
 ##### Timespan Analyzed:
+Jan-Dec 2019
+Data From: https://www.citibikenyc.com/system-data  -  https://s3.amazonaws.com/tripdata/index.html
