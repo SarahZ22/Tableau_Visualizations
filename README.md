@@ -23,4 +23,4 @@ The data was combined and reduced in size using Pandas/Jupyter Notebook to make 
 
 #### Final Analysis on Tableau Public
 https://public.tableau.com/profile/sarah.zachrich#!/vizhome/CitiBikeAnalytics_HW/CitiBikeAnalysis?publish=yes \
-A copy of the workbook (.tbbx file) as well as a pdf of the created story is included in this github.
+A pdf of the created story is included in this github for a quick view of some of the created visuals.
