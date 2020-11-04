@@ -18,4 +18,9 @@ This is what will be presented to the officials, so be sure to make it professio
 
 ##### Timespan Analyzed:
 Jan-Dec 2019 \
-Data From: https://www.citibikenyc.com/system-data  -  https://s3.amazonaws.com/tripdata/index.html
+Data From: https://www.citibikenyc.com/system-data  -  https://s3.amazonaws.com/tripdata/index.html \
+The data was combined and reduced in size using Pandas/Jupyter Notebook to make it simple to load to and compatible with Tableau Public. 
+
+#### Final Analysis on Tableau Public
+https://public.tableau.com/profile/sarah.zachrich#!/vizhome/CitiBikeAnalytics_HW/CitiBikeAnalysis?publish=yes \
+A copy of the workbook (.tbbx file) as well as a pdf of the created story is included in this github.
